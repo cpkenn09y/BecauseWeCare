@@ -13,10 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
-//= require twitter/bootstrap-tab
-//= require twitter/bootstrap-transition
-//= require twitter/bootstrap-modal
-//= require twitter/bootstrap-button
-//= require twitter/bootstrap-carousel
-//= require twitter/bootstrap-collapse
 //= require_tree .
