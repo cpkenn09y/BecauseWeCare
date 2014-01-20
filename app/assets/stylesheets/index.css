@@ -40,13 +40,12 @@ img {
 }
 
 #about-facility-container {
-  width: 100%;
+  margin-left: 5%;
+  width: 80%;
 }
 
-.facility-profile-container {
-  margin-top: 5%;
-  width: 80%;
-  margin-left: 5%;
+.facility-profile {
+  margin-top: 7%;
 }
 
 #carousel-container {
