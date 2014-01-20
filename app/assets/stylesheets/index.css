@@ -53,6 +53,10 @@ img {
   margin-right: 20%;
 }
 
+.spacing {
+  height: 2em;
+}
+
 .italic {
   font-style: italic;
 }
