@@ -4,12 +4,4 @@ class WelcomeController < ApplicationController
 
   end
 
-  def about_us
-
-  end
-
-  def contact
-
-  end
-
 end
