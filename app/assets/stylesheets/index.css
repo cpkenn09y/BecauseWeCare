@@ -4,6 +4,10 @@
   margin-left: 0.2em !important;
 }
 
+body {
+  background-color: #E8D1A4;
+}
+
 #wrapper {
   width: 95%;
   height: 90%;
