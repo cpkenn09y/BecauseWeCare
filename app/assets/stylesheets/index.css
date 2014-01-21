@@ -83,6 +83,10 @@ img {
   height: 4em;
 }
 
+.small-spacing {
+  height: 2em;
+}
+
 #carousel-container {
   margin-left: 30%;
   margin-right: 30%;
@@ -93,12 +97,20 @@ img {
   border-radius: 2em;
 }
 
+#contact-info {
+  text-align: center;
+}
+
 .italic {
   font-style: italic;
 }
 
 .bold {
   font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 .facility-header {
