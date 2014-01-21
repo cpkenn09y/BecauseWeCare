@@ -25,10 +25,8 @@
   margin: 0 auto;
   text-align: center;
   height: 20em;
-  width: 38%;
   display: inline-block;
   border-radius: 1em;
-  margin-left: 8%;
   margin-top: 5%;
 }
 
@@ -42,7 +40,7 @@ img {
 }
 
 #navbar-compensate {
-  height: 5em;
+  height: 7em;
 }
 
 .nav-link {
@@ -50,17 +48,46 @@ img {
 }
 
 #about-facility-container {
-  margin-left: 5%;
-  width: 80%;
+
+}
+
+.facility-profile {
+  /*background: red;*/
+}
+
+.facility-features {
+  /*background: blue;*/
+}
+
+.services-offered {
+
+}
+
+.we-accept {
+
+}
+
+.new-row {
+  height: 20em;
+}
+
+.two-in-row {
+  float: left;
+  width: 38%;
+  margin-left: 8%;
+}
+
+.details-box {
+  height: 15em;
+}
+
+.spacing {
+  height: 2em;
 }
 
 #carousel-container {
   margin-left: 20%;
   margin-right: 20%;
-}
-
-.spacing {
-  height: 2em;
 }
 
 .italic {
@@ -69,4 +96,8 @@ img {
 
 .bold {
   font-weight: bold;
+}
+
+.h2 {
+  font-size: 2em;
 }
