@@ -41,6 +41,10 @@ img {
   height: 100%;
 }
 
+#navbar-compensate {
+  height: 5em;
+}
+
 .nav-link {
   margin-top: 0.4em;
 }
@@ -48,10 +52,6 @@ img {
 #about-facility-container {
   margin-left: 5%;
   width: 80%;
-}
-
-.facility-profile {
-  margin-top: 7%;
 }
 
 #carousel-container {
