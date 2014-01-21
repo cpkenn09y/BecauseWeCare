@@ -52,11 +52,9 @@ img {
 }
 
 .facility-profile {
-  /*background: red;*/
 }
 
 .facility-features {
-  /*background: blue;*/
 }
 
 .services-offered {
@@ -68,7 +66,7 @@ img {
 }
 
 .new-row {
-  height: 20em;
+  height: 15em;
 }
 
 .two-in-row {
@@ -82,12 +80,17 @@ img {
 }
 
 .spacing {
-  height: 2em;
+  height: 4em;
 }
 
 #carousel-container {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#myCarousel {
+  border: 3em solid brown;
+  border-radius: 2em;
 }
 
 .italic {
@@ -98,6 +101,8 @@ img {
   font-weight: bold;
 }
 
-.h2 {
+.facility-header {
   font-size: 2em;
+  text-decoration: underline;
+  margin-bottom: 0.75em;
 }
