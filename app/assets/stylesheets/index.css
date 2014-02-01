@@ -1,0 +1,137 @@
+.brand {
+  font-size: 2.2em !important;
+  padding: 0.5em !important;
+  margin-left: 0.2em !important;
+}
+
+body {
+  background-color: #E8D1A4;
+}
+
+#wrapper {
+  width: 95%;
+  height: 90%;
+}
+
+#title-container {
+  width: 100%;
+}
+
+#homepage-title {
+  text-align: center;
+  font-family: Helvetica;
+  width: 13em;
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+#facility-links {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.facility-link {
+  margin: 0 auto;
+  text-align: center;
+  height: 20em;
+  display: inline-block;
+  border-radius: 1em;
+  margin-top: 5%;
+}
+
+.facility-img {
+  border-radius: 1em;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+#navbar-compensate {
+  height: 7em;
+}
+
+.nav-link {
+  margin-top: 0.4em;
+}
+
+#about-facility-container {
+
+}
+
+.facility-profile {
+}
+
+.facility-features {
+}
+
+.services-offered {
+
+}
+
+.we-accept {
+
+}
+
+.new-row {
+  height: 15em;
+}
+
+.two-in-row {
+  float: left;
+  width: 38%;
+  margin-left: 8%;
+}
+
+.details-box {
+  height: 15em;
+}
+
+.spacing {
+  height: 6em;
+}
+
+.small-spacing {
+  height: 2em;
+}
+
+#bottom-spacing {
+  height: 6em;
+}
+
+#carousel-container {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#myCarousel {
+  border: 3em solid brown;
+  border-radius: 2em;
+}
+
+#contact-info {
+  text-align: center;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.facility-header {
+  font-size: 2em;
+  text-decoration: underline;
+  margin-bottom: 0.75em;
+}
+
+#other-location {
+  float: right;
+}
